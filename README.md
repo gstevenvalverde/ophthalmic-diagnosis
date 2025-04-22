@@ -56,7 +56,7 @@ This project includes a module for handling medical images and their metadata, l
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ophthalmic-diagnosis-system.git
+git clone https://github.com/yourusername/ophthalmic-diagnosis.git
 cd ophthalmic-diagnosis-system
 
 # Set up a Python virtual environment (Python 3.8+)
